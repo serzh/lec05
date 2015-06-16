@@ -1,0 +1,8 @@
+.erlang.mk.packages.v2
+.erlang.mk
+.idea
+_rel
+ebin/
+erl_crash.dump
+lec05.iml
+deps
